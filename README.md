@@ -31,11 +31,4 @@ Image2PDF Converter is a user-friendly desktop application designed to convert m
 3. The application will convert the images to PDFs and save them in a folder named with the current date within the selected folder.
 4. The progress bar will indicate the conversion progress.
 
-## Project Structure
-```
-image2pdf_converter/
-├── image2pdf_converter.py   # Main application script
-├── README.md                # Readme file
-└── path/to/logo.png         # Application logo (replace with actual path)
-```
 
