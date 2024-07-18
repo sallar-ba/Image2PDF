@@ -14,7 +14,7 @@ class ImageToPDFConverter(QMainWindow):
         self.setGeometry(100, 100, 400, 200)
         
         # Set window icon
-        self.setWindowIcon(QIcon("assets/I2P.png"))
+        self.setWindowIcon(QIcon(r"C:\Users\PMLS\Desktop\Image-to-PDF\assets\I2P.png"))
 
         layout = QVBoxLayout()
 
